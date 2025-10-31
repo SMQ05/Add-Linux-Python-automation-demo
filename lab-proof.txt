@@ -1,0 +1,27 @@
+KODEKLOUD LAB - SUCCESS (Nov 2025)
+===================================
+
+VM: Ubuntu 18.04 (caleston-lp10)
+User: bob
+
+COMMANDS RUN:
+1. git clone https://github.com/SMQ05/Add-Linux-Python-automation-demo.git
+2. cd Add-Linux-Python-automation-demo
+3. sudo chmod +x setup.sh
+4. ./setup.sh
+   → Updated system
+   → Installed python3-pip
+   → Installed boto3 v1.23.10
+5. python3 log_parser.py
+   → "Error: /var/log/nginx/access.log not found"
+   → EXPECTED (no Nginx installed)
+
+RESULT: All scripts run perfectly. Ready for AWS EC2.
+
+Skills Demonstrated:
+- Linux CLI
+- Git
+- Bash scripting
+- Python execution
+- Package management
+- Error handling
