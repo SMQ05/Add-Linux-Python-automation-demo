@@ -1,6 +1,6 @@
 # python-basics
 
-Werkstudent Cloud/DevOps Demo (Germany 2025)
+ Cloud/DevOps Demo ( 2025)
 
 ## Files
 - `cheatsheet.md` → 40+ Linux commands
