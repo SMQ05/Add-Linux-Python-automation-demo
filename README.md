@@ -1,5 +1,8 @@
-# Linux + Python Automation Demo  
+# Linux + GIt-hub  
 ** Cloud/DevOps –  2025**
+
+![IBM Linux Badge](IBM_Git_github.jpg)  
+![IBM Git Badge](IBM_Linux.jpg)
 
 **LIVE LAB PROOF**  
 Successfully tested on **KodeKloud Ubuntu VM**  
